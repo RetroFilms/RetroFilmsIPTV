@@ -2,10 +2,25 @@
 
 ##### 1980s Animated movies #####
 
-#EXTINF:-1 group-title="1980s Animated Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/AllDogsGotoHeaven.jpg/220px-AllDogsGotoHeaven.jpg", All Dogs Go To Heaven
+#EXTINF:1 group-title="1980s Animated Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/AllDogsGotoHeaven.jpg/220px-AllDogsGotoHeaven.jpg", All Dogs Go To Heaven
 https://archive.org/download/all-dogs-go-to-heaven_202204/ALL_DOGS_GO_TO_HEAVEN.mp4
 
 ##### 1980s Sci-fi Movies #####
 
-#EXTINF:-1 group-title="1980s Sci-fi Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyAfTpf-PeS5SyIg9mxa-qZoShJEHJBJr2vd9ZbahH_av2rHZF", E. T. The Extra Terrestrial ( 1982) Special Edition
+#EXTINF:1 group-title="1980s Sci-fi Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyAfTpf-PeS5SyIg9mxa-qZoShJEHJBJr2vd9ZbahH_av2rHZF", E. T. The Extra Terrestrial ( 1982) Special Edition
 https://rb.gy/8zgf6l
+
+#EXTINF:1 group-title="1980s Sci-fi Movies" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMKsmw2uGujtPGXCq2YtJEoUgMrnVKfIz4qfDTQK6uoJC3K-f4", D.A.R.Y.L (1985)
+https://rb.gy/w5xauu
+
+
+##### 1990s Crime Movies #####
+
+#EXTINF:1 group-title="1990s Crime Movies" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8mtLGRLPGIHWvEZ9g96BmEGblA01CONUcRDdr3BEjCC9xbGA3", Menace II Society  (1993)
+https://rb.gy/xhlecs
+
+
+##### 2000s Sci-fi Movies #####
+
+#EXTINF:1 group-title="2000s Sci-fi Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtR1ZWks0vX4M412-m1gVxx3dg0tqD9tLfb30TP8t98kSOYlqf", A. I. Intelligenza Artificiale ( 2001)
+https://rb.gy/jvazra
