@@ -1,26 +1,29 @@
 #EXTM3U x-tvg-url=""
-
-##### 1980s Animated movies #####
-
-#EXTINF:1 group-title="1980s Animated Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/AllDogsGotoHeaven.jpg/220px-AllDogsGotoHeaven.jpg", All Dogs Go To Heaven
-https://archive.org/download/all-dogs-go-to-heaven_202204/ALL_DOGS_GO_TO_HEAVEN.mp4
-
-##### 1980s Sci-fi Movies #####
-
-#EXTINF:1 group-title="1980s Sci-fi Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyAfTpf-PeS5SyIg9mxa-qZoShJEHJBJr2vd9ZbahH_av2rHZF", E. T. The Extra Terrestrial ( 1982) Special Edition
+#EXTINF:1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/AllDogsGotoHeaven.jpg/220px-AllDogsGotoHeaven.jpg", All Dogs Go To Heaven
+https://rb.gy/wirjkg
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyAfTpf-PeS5SyIg9mxa-qZoShJEHJBJr2vd9ZbahH_av2rHZF", E. T. The Extra Terrestrial ( 1982) SE
 https://rb.gy/8zgf6l
-
-#EXTINF:1 group-title="1980s Sci-fi Movies" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMKsmw2uGujtPGXCq2YtJEoUgMrnVKfIz4qfDTQK6uoJC3K-f4", D.A.R.Y.L (1985)
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMKsmw2uGujtPGXCq2YtJEoUgMrnVKfIz4qfDTQK6uoJC3K-f4", D.A.R.Y.L (1985)
 https://rb.gy/w5xauu
-
-
-##### 1990s Crime Movies #####
-
-#EXTINF:1 group-title="1990s Crime Movies" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8mtLGRLPGIHWvEZ9g96BmEGblA01CONUcRDdr3BEjCC9xbGA3", Menace II Society  (1993)
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8mtLGRLPGIHWvEZ9g96BmEGblA01CONUcRDdr3BEjCC9xbGA3", Menace II Society  (1993)
 https://rb.gy/xhlecs
-
-
-##### 2000s Sci-fi Movies #####
-
-#EXTINF:1 group-title="2000s Sci-fi Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtR1ZWks0vX4M412-m1gVxx3dg0tqD9tLfb30TP8t98kSOYlqf", A. I. Intelligenza Artificiale ( 2001)
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtR1ZWks0vX4M412-m1gVxx3dg0tqD9tLfb30TP8t98kSOYlqf", A. I. Intelligenza Artificiale ( 2001)
 https://rb.gy/jvazra
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZj6ZtJz3nzeeZfLjdj5m4b0D0y6c0U90Nuj32fY29&usqp=CAE&s", Deadpool ( 2016)
+https://rb.gy/h1fvlq
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThOcyl-JYuX1fpvxptDjhPG250toIgpeNH0YRapV75IXxa-3lZ", Night School ( 2017)
+https://rb.gy/ytny4j
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYf_7fRfACrDV9o7V22QbXubQSRUZX625QoD9YKNnYTDpzhtnh", FnF8 - The Fate of the Furious 2017
+https://rb.gy/o3a6wy
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnHxC5rmn9c0DyXM5htwUrAuc5YRfclpFNVggYfpyHuGADDvpX", The Fifth Element (1997)
+https://rb.gy/peq0oz
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaoamRKQDYxVXvXg6LUl6brQmMdFbpZvOQ2G_nD6u5uq16tiVh", 22 Jump Street (2014)
+https://rb.gy/kpg7zr
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9d_lBBx0xxB7_d4RP82MlRcK82lzT2W1ZavxhV39SSTZOofDX", Back To The Future I (1985)
+https://rb.gy/m9foy5
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsdbxZfmQUM_9hVGU_L2_c_NzyoO9x5C3DG-gTPnlI8Kxkn5jA", Back To The Future II (1989)
+https://rb.gy/sgysqm
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7gkpTgwF2SjI8bkwLsADdZNrTFqNJltZo00G_VPtjpgLJsYmJ", Back To The Future III (1990)
+https://rb.gy/kpg7zr
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS6QaUIxaOkl5il_FgPwtvH5Kiej_YuM-oEeC4GEV8VXirzOxG", Robocop (1987)
+https://rb.gy/trww4z
