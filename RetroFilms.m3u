@@ -1,3 +1,6 @@
 #EXTM3U x-tvg-url=""
+
+##### Animated movies #####
+
 #EXTINF:-1 group-title="1980s Animated Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/AllDogsGotoHeaven.jpg/220px-AllDogsGotoHeaven.jpg", All Dogs Go To Heaven
 https://archive.org/download/all-dogs-go-to-heaven_202204/ALL_DOGS_GO_TO_HEAVEN.mp4
