@@ -1,20 +1,43 @@
 #EXTM3U x-tvg-url=""
+
+#### Stephen King Movie Collection ####
+
+#EXTINF:1 group-title="Stephen King" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSr4y3AfFpUFct1aEKCNn51GVCRjKu3u0PD2cG2B0eZn8UigFFW", Misery (1990)
+https://rb.gy/utfxrq
+#EXTINF:1 group-title="Stephen King" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShWj3zVzNXzN2q6YU7CY4_tQ2FuBvzupKQrqh8d681d2vS88v9", Stand By Me (1986)
+https://rb.gy/6kezht
+#EXTINF:1 group-title="Stephen King" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvYzmCt0-qgc4Yc1AgkRw9_ONiZ5RX1sg53__YVoLs28rfR8M-", The Shawshank Redemption (1994)
+https://rb.gy/zzkvuu
+#EXTINF:1 group-title="Stephen King" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgZqWs8at0E7djB-Rgntwg_fzuZwWl96llZQl6QkHIDHggZSsf", The Green Mile (1999)
+https://rb.gy/zzkvuu
+#EXTINF:1 group-title="Stephen King" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSePtsI4R8TFQQjfH_1VsNPVHDR2dFN3eonQIBadty952eghMyW", Firestarter (1984)
+https://rb.gy/tpkleq
+
+#### Steven Spielberg Movie Collection ####
+
+#EXTINF:1 group-title="Steven Spielberg" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyAfTpf-PeS5SyIg9mxa-qZoShJEHJBJr2vd9ZbahH_av2rHZF", E. T. The Extra Terrestrial (1982) SE
+https://archive.org/download/e.t.theextraterrestrial1982specialedition/E.T.%20The%20Extra%20Terrestrial%20%281982%29%20%5BSpecial%20Edition%5D.mp4
+#EXTINF:1 group-title="Steven Spielberg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4StrOi0CwY7yUTDmnwEscRUI1LNPQNxPwhc4w8I4v&usqp=CAE&s", Jurassic Park (1993)
+https://archive.org/download/5.-jurassic-world-fallen-kingdom/1.%20Jurassic%20Park.mp4
+#EXTINF:1 group-title="Steven Spielberg" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnSKJsrAkbhyGqbMnJ1y8jILCX1yp_xDqhCcuKS5UDl_SLd1zr", Jurassic Park 2: The Lost World (1997)
+https://archive.org/download/5.-jurassic-world-fallen-kingdom/2.%20The%20Lost%20World%20-%20Jurassic%20Park.mp4
+#EXTINF:1 group-title="Steven Spielberg" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1_2UHCEajJj_HIXlMcxP0NB9DJqcCf6FSMsqYTDQa_o3nxMJY", Jurassic Park 3 (2001)
+https://archive.org/download/5.-jurassic-world-fallen-kingdom/3.%20Jurassic%20Park%20III.mp4
+#EXTINF:1 group-title="Steven Spielberg" tvg-logo="http://www.movienewsletters.net/photos/156480R1.jpg", Jurassic World (2015)
+https://archive.org/download/5.-jurassic-world-fallen-kingdom/4.%20Jurassic%20World.mp4
+#EXTINF:1 group-title="Steven Spielberg" tvg-logo="https://contentserver.com.au/assets/638902_jurrasic_world_v8.jpg", Jurassic World: Fallen Kingdom (2018)
+https://archive.org/download/5.-jurassic-world-fallen-kingdom/5.%20Jurassic%20World%20-%20Fallen%20Kingdom.mp4
+
+
+
+
+
 #EXTINF:1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/AllDogsGotoHeaven.jpg/220px-AllDogsGotoHeaven.jpg", All Dogs Go To Heaven
 https://rb.gy/wirjkg
-#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyAfTpf-PeS5SyIg9mxa-qZoShJEHJBJr2vd9ZbahH_av2rHZF", E. T. The Extra Terrestrial ( 1982) SE
-https://rb.gy/8zgf6l
 #EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMKsmw2uGujtPGXCq2YtJEoUgMrnVKfIz4qfDTQK6uoJC3K-f4", D.A.R.Y.L (1985)
 https://rb.gy/w5xauu
 #EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8mtLGRLPGIHWvEZ9g96BmEGblA01CONUcRDdr3BEjCC9xbGA3", Menace II Society  (1993)
 https://rb.gy/xhlecs
-#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtR1ZWks0vX4M412-m1gVxx3dg0tqD9tLfb30TP8t98kSOYlqf", A. I. Intelligenza Artificiale ( 2001)
-https://rb.gy/jvazra
-#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZj6ZtJz3nzeeZfLjdj5m4b0D0y6c0U90Nuj32fY29&usqp=CAE&s", Deadpool ( 2016)
-https://rb.gy/h1fvlq
-#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThOcyl-JYuX1fpvxptDjhPG250toIgpeNH0YRapV75IXxa-3lZ", Night School ( 2017)
-https://rb.gy/ytny4j
-#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYf_7fRfACrDV9o7V22QbXubQSRUZX625QoD9YKNnYTDpzhtnh", FnF8 - The Fate of the Furious 2017
-https://rb.gy/o3a6wy
 #EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnHxC5rmn9c0DyXM5htwUrAuc5YRfclpFNVggYfpyHuGADDvpX", The Fifth Element (1997)
 https://rb.gy/peq0oz
 #EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaoamRKQDYxVXvXg6LUl6brQmMdFbpZvOQ2G_nD6u5uq16tiVh", 22 Jump Street (2014)
@@ -71,3 +94,11 @@ https://rb.gy/vpysmu
 https://rb.gy/e404fn
 #EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzNJ4CJy2BKDjJp3DIarRpLErbO9WjQj35F7a3UQFgeZbJSHyd", Short Circuit 2 (1988)
 https://rb.gy/vue7yp
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtR1ZWks0vX4M412-m1gVxx3dg0tqD9tLfb30TP8t98kSOYlqf", A. I. Intelligenza Artificiale ( 2001)
+https://rb.gy/jvazra
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZj6ZtJz3nzeeZfLjdj5m4b0D0y6c0U90Nuj32fY29&usqp=CAE&s", Deadpool ( 2016)
+https://rb.gy/h1fvlq
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThOcyl-JYuX1fpvxptDjhPG250toIgpeNH0YRapV75IXxa-3lZ", Night School ( 2017)
+https://rb.gy/ytny4j
+#EXTINF:1 group-title="Movies" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYf_7fRfACrDV9o7V22QbXubQSRUZX625QoD9YKNnYTDpzhtnh", FnF8 - The Fate of the Furious 2017
+https://rb.gy/o3a6wy
